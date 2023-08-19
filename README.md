@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sudarshanverma19
+- 👋 Hi, I’m Sudarshan Verma
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning DSA in java and R programming
 - 💞️ I’m looking to collaborate on TCS learning certification. 
