@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sudarshan Verma
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning DSA in java and R programming
-- 💞️ I’m looking to collaborate on TCS learning certification. 
+- 🌱 I’m proficient with DSA in java 
 - 📫 How to reach me .. by mail
 
 <!---
